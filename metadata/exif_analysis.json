@@ -1,0 +1,35 @@
+{
+  "source_device": {
+    "make": "[REDACTED]",
+    "model": "Industrial Hi8 (modified)",
+    "serial": "██████████",
+    "firmware": "v2.1.7-DOD"
+  },
+  "capture_settings": {
+    "resolution": "720x480",
+    "framerate": 29.97,
+    "color_space": "YUV420",
+    "compression": "none (raw)",
+    "audio_channels": 2,
+    "audio_sample_rate": 44100
+  },
+  "location_data": {
+    "gps_latitude": "[STRIPPED]",
+    "gps_longitude": "[STRIPPED]",
+    "altitude_ft": 4400,
+    "note": "GPS coordinates removed during sanitization. Altitude consistent with [REDACTED], NV."
+  },
+  "timestamps": {
+    "recording_start": "1997-08-13T22:14:07-07:00",
+    "recording_end": "1997-08-14T04:01:12-07:00",
+    "total_duration_sec": 20825,
+    "total_duration_human": "5h 47m 05s"
+  },
+  "chain_of_custody": [
+    {"date": "1997-08-14", "handler": "[REDACTED]", "action": "original recording"},
+    {"date": "1997-08-15", "handler": "[REDACTED]", "action": "transferred to secure storage"},
+    {"date": "1997-09-03", "handler": "[REDACTED]", "action": "wipe ordered — INCOMPLETE"},
+    {"date": "2024-10-28", "handler": "[ANONYMOUS]", "action": "disk recovered from surplus auction"},
+    {"date": "2024-11-03", "handler": "[ANONYMOUS]", "action": "forensic recovery initiated"}
+  ]
+}

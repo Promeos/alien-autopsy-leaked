@@ -1,0 +1,25 @@
+MASS SPECTROMETRY ANALYSIS — CONFIDENTIAL
+Date: 1997-09-02
+Lab: [REDACTED] National Laboratory
+Operator: Dr. ██████ ████████
+
+Instrument: Thermo Finnigan MAT 95 XP
+Ionization: Electrospray (ESI)
+Mass Range: 50-2000 m/z
+
+SAMPLE: NHE-001-C (epidermal tissue, dorsal region)
+
+RESULTS:
+  m/z 147.3  — rel. intensity 100%  — UNIDENTIFIED (no database match)
+  m/z 203.8  — rel. intensity 87%   — UNIDENTIFIED (no database match)
+  m/z 294.1  — rel. intensity 62%   — partial match: silicon-organic compound (?)
+  m/z 445.7  — rel. intensity 41%   — UNIDENTIFIED
+  m/z 589.2  — rel. intensity 33%   — partial match: metalloprotein fragment
+  m/z 712.4  — rel. intensity 28%   — UNIDENTIFIED
+  m/z 1047.9 — rel. intensity 15%   — possible polymer chain (non-terrestrial?)
+
+NOTES:
+- Over 60% of detected compounds have NO MATCH in NIST/Wiley databases
+- Silicon-carbon bonding patterns inconsistent with known organosilicon chemistry
+- Recommend isotope ratio analysis (pending approval from [REDACTED])
+- *** THIS REPORT IS CLASSIFIED — DO NOT DISTRIBUTE ***

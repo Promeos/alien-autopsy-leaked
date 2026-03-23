@@ -1,0 +1,19 @@
+FRAME MANIFEST — NHE AUTOPSY FOOTAGE
+Generated: 1997-08-14T03:22:00Z
+Source: Archive Disk 3 of 7
+Encryption: AES-256-CBC (key required)
+Total frames: 147
+Intact frames: 89
+Corrupted frames: 41
+Missing frames: 17
+
+Status: PARTIALLY RECOVERED
+Frames 001-034: intact
+Frames 035-042: corrupted (disk sector damage)
+Frames 043-098: intact
+Frames 099-115: missing (disk 4 not recovered)
+Frames 116-130: corrupted (unknown interference pattern)
+Frames 131-147: intact
+
+NOTE: All .nhe files require reconstruct.py with valid decryption key.
+Contact [REDACTED] for key access authorization.

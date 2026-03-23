@@ -1,0 +1,13 @@
+sample_id,wavelength_nm,absorbance,element,confidence,notes
+NHE-001-A,253.7,0.847,unknown,0.92,no terrestrial match
+NHE-001-A,404.7,0.312,mercury,0.88,trace contamination from lab equipment
+NHE-001-B,589.0,0.156,sodium,0.95,standard biological marker
+NHE-001-B,766.5,0.723,potassium,0.91,elevated concentration
+NHE-001-C,213.9,0.934,unknown,0.97,*** ANOMALOUS — see notes ***
+NHE-001-C,228.8,0.891,unknown,0.94,paired with 213.9 peak — not in NIST database
+NHE-001-D,670.8,0.445,lithium,0.89,unexpected in biological tissue
+NHE-001-D,460.7,0.267,unknown,0.86,possible synthetic compound
+NHE-002-A,253.7,0.201,mercury,0.93,control sample — human tissue
+NHE-002-A,589.0,0.178,sodium,0.96,control sample — expected range
+NHE-001-E,347.3,0.978,unknown,0.99,HIGHEST ANOMALY — element not catalogued
+NHE-001-E,350.1,0.965,unknown,0.98,satellite peak to 347.3

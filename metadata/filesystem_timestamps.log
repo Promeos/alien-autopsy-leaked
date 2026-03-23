@@ -1,0 +1,18 @@
+FILESYSTEM METADATA RECOVERY LOG
+Source: Archive Disk 3 (Iomega Jaz 2GB)
+Recovery tool: dd + custom carver
+Date recovered: 2024-11-03
+
+FILE                          CREATED              MODIFIED             ACCESSED
+autopsy_vid_001.raw           1997-08-13 22:14:07  1997-08-14 03:22:41  1997-08-14 03:22:41
+autopsy_vid_002.raw           1997-08-14 03:22:55  1997-08-14 04:01:12  1997-08-14 04:01:12
+tissue_sample_log.dat         1997-08-15 09:30:00  1997-09-02 14:45:33  1997-09-02 14:45:33
+spectro_raw.bin               1997-09-01 11:00:00  1997-09-01 16:22:18  1997-09-02 08:12:00
+mass_spec_output.bin          1997-09-02 10:15:00  1997-09-02 14:30:00  1997-09-02 14:45:33
+audio_ambient.pcm             1997-08-14 03:15:00  1997-08-14 03:18:47  1997-08-14 04:00:00
+audio_segment3_CLASSIFIED.pcm 1997-08-14 03:19:00  1997-08-14 03:19:48  [ACCESS DENIED]
+encryption_manifest.cfg       1997-09-03 00:00:00  1997-09-03 02:14:00  1997-09-03 02:14:00
+WIPE_LOG.sys                  1997-09-03 02:15:00  1997-09-03 02:15:00  1997-09-03 02:15:00
+
+NOTE: WIPE_LOG.sys indicates a secure deletion was initiated at 02:15 on 1997-09-03.
+      Recovery was only possible due to incomplete wipe of Jaz disk sectors 4401-8192.

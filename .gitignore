@@ -1,0 +1,17 @@
+# Decryption keys — DO NOT COMMIT
+.key
+*.key
+keys/
+
+# Fully reconstructed output (too large for git)
+output/
+reconstructed/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
